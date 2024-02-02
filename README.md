@@ -23,3 +23,4 @@ converted A1-final.xlsx into A1-final.txt
 5. A1-final2.py
     - looked through A1-final.txt and removed all files/lines only one release AKA with time interval (Latest Release Date - Original Release Date) == "0"
     - put results back into A1-final.txt
+    - iterated through A1-final.txt again to finally put all files in A1-final2.xlsx
